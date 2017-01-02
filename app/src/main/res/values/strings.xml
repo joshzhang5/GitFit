@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitFit2</string>
+    <string name="button_send"> Connect </string>
+</resources>
